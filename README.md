@@ -1,12 +1,8 @@
-# AirCNC Part-1 Starter
+# Appointment Scheduler
 
 ## Live Link
-Hosted in Firebase -> [AirCNC](https://aircnc-68403.web.app/)
+Hosted in netlify
 
-## Part-1 Complete Repository:
-Github Repo -> [Complete](https://github.com/shakilahmedatik/aircnc-part1-complete)
 
-## Resources Repository:
-Github Repo -> [Resources](https://github.com/shakilahmedatik/aircnc-resources)
 
 
